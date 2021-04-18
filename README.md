@@ -3,7 +3,7 @@
 
 ## Demonstration
 
-<img src="./img/result.mp4" alt="Exemplo">
+<img src="./img/result.gif" alt="Exemplo">
 <img src="./img/result1.png" alt="Exemplo">
 
 ## Techs
